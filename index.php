@@ -2,7 +2,8 @@
 
 function test()
 {
-
+    echo "Demo";
+    echo "demo2";
 }
 
 ?>
