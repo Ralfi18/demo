@@ -1,10 +1,9 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Rali
- * Date: 3/3/2017
- * Time: 9:42 AM
- */
+
+function test()
+{
+
+}
 
 ?>
 <!doctype html>
