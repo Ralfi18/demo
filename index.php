@@ -18,5 +18,6 @@ function test()
 </head>
 <body>
     <h1>Testing the GIT</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus dignissimos dolor eveniet in iste mollitia odit, placeat provident tempore veritatis? Architecto aut eaque ipsam molestiae nostrum optio perferendis quas sapiente.</p>
 </body>
 </html>
